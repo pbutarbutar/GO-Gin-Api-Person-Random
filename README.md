@@ -15,6 +15,7 @@ Run binary build
 
 
 #4 Unit test coverage
+```
 go test -cover ./...
 ?   	api-random-user/cmd	[no test files]
 ?   	api-random-user/config	[no test files]
@@ -24,3 +25,4 @@ ok  	api-random-user/src/app/person/usecase	0.049s	coverage: 100.0% of statement
 ?   	api-random-user/src/domain	[no test files]
 ?   	api-random-user/src/model/entity	[no test files]
 ?   	api-random-user/src/shared/mocks	[no test files]
+```
