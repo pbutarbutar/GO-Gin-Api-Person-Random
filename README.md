@@ -1,7 +1,9 @@
 
-#Go Version go 1.18
-API RANDOM USER 
-How to Run 
+# Go Version go 1.18
+## API RANDOM USER 
+###### How to Run?
+
+
 #1
 ```
 go mod tidy
