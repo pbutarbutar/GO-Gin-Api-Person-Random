@@ -1,5 +1,5 @@
 
-Go Version go 1.18
+#Go Version go 1.18
 API RANDOM USER 
 How to Run 
 #1
