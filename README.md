@@ -3,16 +3,21 @@
 API RANDOM USER 
 How to Run 
 #1
+```
 go mod tidy
+```
 
 #2 
 Run source mode is debug
+```
 go run cmd/main.go
+```
 
 #3
 Run binary build
+```
 ./main
-
+```
 
 #4 Unit test coverage
 ```
